@@ -1,0 +1,18 @@
+2017-04-15T01:27:01.459337830 0.185194s notice: Recursively removing directory /home/bruce/git/wevvr/rethinkdb_data/tmp
+2017-04-15T01:27:01.485473139 0.211331s notice: Initializing directory /home/bruce/git/wevvr/rethinkdb_data
+2017-04-15T01:27:01.485624993 0.211479s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/bruce/git/wevvr/rethinkdb_data' did not already exist or is empty.)
+2017-04-15T01:27:01.485650799 0.211504s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-04-15T01:27:01.493226289 0.219085s notice: Running on Linux 3.16.0-53-generic x86_64
+2017-04-15T01:27:01.493338420 0.219192s notice: Loading data from directory /home/bruce/git/wevvr/rethinkdb_data
+2017-04-15T01:27:01.734442490 0.460301s info: Automatically using cache size of 3526 MB
+2017-04-15T01:27:01.736543213 0.462397s notice: Listening for intracluster connections on port 29015
+2017-04-15T01:27:01.739582732 0.465437s notice: Listening for client driver connections on port 28015
+2017-04-15T01:27:01.739916476 0.465770s notice: Listening for administrative HTTP connections on port 8080
+2017-04-15T01:27:01.739927132 0.465781s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-04-15T01:27:01.739933040 0.465787s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-04-15T01:27:01.739940604 0.465794s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-04-15T01:27:01.739944441 0.465798s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-04-15T01:27:01.739951639 0.465805s notice: Server ready, "bruce_p7_1154_96q" 4c7f13b7-1ec8-444c-b795-b80614b5a7bb
+2017-04-15T01:27:31.958504689 30.684359s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: Starting a new Raft election for term 1.
+2017-04-15T01:27:31.959088264 30.684942s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: Added replica on this server.
+2017-04-15T01:27:32.008395106 30.734249s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: This server is Raft leader for term 1. Latest log index is 0.
