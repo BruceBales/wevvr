@@ -3,7 +3,7 @@ var process = require("./lib/process.js");
 var r = require('rethinkdbdash')();
 
 var endpoint = "wss://open-data.api.satori.com";
-var appKey = "Dd609af98cDfCdae7C8A04c4Bb5eC3Ee";
+var appKey = "dc8a2BFaA71e5aA64940DFed6fEb89de";
 var channel = "NWS-All-USA-Alerts";
 
 

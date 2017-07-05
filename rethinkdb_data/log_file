@@ -16,3 +16,18 @@
 2017-04-15T01:27:31.958504689 30.684359s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: Starting a new Raft election for term 1.
 2017-04-15T01:27:31.959088264 30.684942s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: Added replica on this server.
 2017-04-15T01:27:32.008395106 30.734249s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: This server is Raft leader for term 1. Latest log index is 0.
+2017-07-04T17:55:44.842676106 0.211108s notice: Recursively removing directory /home/bruce/code/src/github.com/BruceBales/wevvr/rethinkdb_data/tmp
+2017-07-04T17:55:44.868830930 0.237269s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-07-04T17:55:44.877234160 0.245668s notice: Running on Linux 3.16.0-53-generic x86_64
+2017-07-04T17:55:44.877337971 0.245768s notice: Loading data from directory /home/bruce/code/src/github.com/BruceBales/wevvr/rethinkdb_data
+2017-07-04T17:55:44.979968368 0.348403s info: Automatically using cache size of 3590 MB
+2017-07-04T17:55:44.982852087 0.351283s notice: Listening for intracluster connections on port 29015
+2017-07-04T17:55:45.070887744 0.439319s notice: Listening for client driver connections on port 28015
+2017-07-04T17:55:45.071230105 0.439661s notice: Listening for administrative HTTP connections on port 8080
+2017-07-04T17:55:45.071237581 0.439668s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-04T17:55:45.071243341 0.439674s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-04T17:55:45.071253015 0.439683s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-07-04T17:55:45.071258472 0.439689s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-04T17:55:45.071268382 0.439699s notice: Server ready, "bruce_p7_1154_96q" 4c7f13b7-1ec8-444c-b795-b80614b5a7bb
+2017-07-04T17:55:47.048419472 2.416850s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: Starting a new Raft election for term 2.
+2017-07-04T17:55:47.097805697 2.466237s info: Table 1261d177-07a9-426d-ab36-71161e76b2a4: This server is Raft leader for term 2. Latest log index is 2.
